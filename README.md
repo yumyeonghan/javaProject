@@ -1,5 +1,5 @@
-# Java Programming Project
+## 2학년 1학기 Java Programming Project
 
-## 2021 - 06 - 07
-## 
-[201811612_유명한_보고서.pdf](https://github.com/yumyeonghan/javaProject/files/9845022/201811612_._.pdf)
+* [프로젝트 제안.pdf](https://github.com/yumyeonghan/javaProject/files/9845037/default.pdf)
+* [프로젝트 클래스 다이어그램.pdf](https://github.com/yumyeonghan/javaProject/files/9845039/default.pdf)
+* [프로젝트 최종 보고서.pdf](https://github.com/yumyeonghan/javaProject/files/9845040/default.pdf)
